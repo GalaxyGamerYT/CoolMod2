@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "coolmod:block/slab_block"
+    },
+    "type=double": {
+      "model": "coolmod:block/ruby_block"
+    },
+    "type=top": {
+      "model": "coolmod:block/slab_block_top"
+    }
+  }
+}

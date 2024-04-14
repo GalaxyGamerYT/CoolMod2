@@ -1,0 +1,33 @@
+{
+  "item.coolmod.ruby": "Ruby",
+  "item.coolmod.raw_ruby": "Raw Ruby",
+
+  "item.coolmod.metal_detector": "Metal Detector",
+  "item.coolmod.tomato": "Tomato",
+  "item.coolmod.coal_briquette": "Coal Briquette",
+
+  "block.coolmod.ruby_block": "Block of Ruby",
+  "block.coolmod.raw_ruby_block": "Block of Raw Ruby",
+
+  "block.coolmod.ruby_ore": "Ruby Ore",
+  "block.coolmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.coolmod.nether_ruby_ore": "Nether Ruby Ore",
+  "block.coolmod.end_stone_ruby_ore": "End Stone Ruby Ore",
+
+  "block.coolmod.sound_block": "Sound Block",
+
+  "block.coolmod.ruby_stairs": "Ruby Stairs",
+  "block.coolmod.ruby_slab": "Ruby Slab",
+  "block.coolmod.ruby_button": "Ruby Button",
+  "block.coolmod.ruby_pressure_plate": "Ruby Pressure Plate",
+  "block.coolmod.ruby_fence": "Ruby Fence",
+  "block.coolmod.ruby_fence_gate": "Ruby Fence Gate",
+  "block.coolmod.ruby_wall": "Ruby Wall",
+  "block.coolmod.ruby_door": "Ruby Door",
+  "block.coolmod.ruby_trapdoor": "Ruby Trapdoor",
+
+  "tooltip.coolmod.metal_detector.tooltip": "Finds valuables underground",
+  "tooltip.coolmod.sound_block.tooltip": "Makes a sweet sound when right clicked",
+
+  "itemgroup.ruby": "Ruby Group"
+}

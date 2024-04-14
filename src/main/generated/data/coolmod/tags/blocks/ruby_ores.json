@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "coolmod:ruby_ore",
+    "coolmod:deepslate_ruby_ore",
+    "coolmod:nether_ruby_ore",
+    "coolmod:end_stone_ruby_ore"
+  ]
+}

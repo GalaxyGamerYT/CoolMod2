@@ -1,0 +1,16 @@
+// 1.20.4	2024-04-14T11:41:24.9246967	Cool Mod/Block Loot Tables
+9dbb422afa57203e72ed461363f4f32edc329375 data\coolmod\loot_tables\blocks\ruby_pressure_plate.json
+781b2af01d51b2d0a04ad35723b30b0e131e121c data\coolmod\loot_tables\blocks\deepslate_ruby_ore.json
+8e143ec342cd0eff33f3eab9db95baf0c7a7c099 data\coolmod\loot_tables\blocks\nether_ruby_ore.json
+2a80861d7a16d28a1937c51ca73a3eac8ab6c963 data\coolmod\loot_tables\blocks\ruby_ore.json
+9db97668579b3c602ba6b1dcdb81b67c1a25b8b0 data\coolmod\loot_tables\blocks\ruby_fence_gate.json
+ca31f0c6940ff40dc94e7eaa17264ea42095e93f data\coolmod\loot_tables\blocks\ruby_door.json
+a488b7ee6dd930ba81a831f3147ccda19147817d data\coolmod\loot_tables\blocks\end_stone_ruby_ore.json
+6ac9d184b0a6b7a932a069bd1127f741de5f627f data\coolmod\loot_tables\blocks\ruby_stairs.json
+44ec266fc9a33e2f758c7e48b5184ed5e0f58472 data\coolmod\loot_tables\blocks\ruby_trapdoor.json
+4c7f768ab7233f83af7ce7a109518f9883ad3026 data\coolmod\loot_tables\blocks\ruby_button.json
+bb2c257c9b7d105538efe28e874bfed803037407 data\coolmod\loot_tables\blocks\raw_ruby_block.json
+87172b3cd00931f2d2fd000c3def89fa51635f88 data\coolmod\loot_tables\blocks\ruby_block.json
+925bbcbe7c684b54ca8421452a5d15aa7494abd9 data\coolmod\loot_tables\blocks\ruby_wall.json
+4b78a375fb3ffdf909da70d026d14d57ef777132 data\coolmod\loot_tables\blocks\sound_block.json
+acfe98db1676296f6ce6ea9afe3c31784623622d data\coolmod\loot_tables\blocks\ruby_fence.json

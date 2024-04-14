@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "coolmod",
+	"version": "${version}",
+	"name": "Cool Mod",
+	"description": "Cool Mod Description",
+	"authors": [
+		"GalaxyGamerYT"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/coolmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.galaxygamery.coolmod.CoolMod"
+		],
+		"client": [
+			"net.galaxygamery.coolmod.CoolModClient"
+		],
+		"fabric-datagen": [
+			"net.galaxygamery.coolmod.CoolModDataGenerator"
+		]
+	},
+	"mixins": [
+		"coolmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.9",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

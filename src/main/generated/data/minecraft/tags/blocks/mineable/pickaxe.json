@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#coolmod:ruby_ores",
+    "coolmod:ruby_block",
+    "coolmod:raw_ruby_block",
+    "coolmod:sound_block"
+  ]
+}

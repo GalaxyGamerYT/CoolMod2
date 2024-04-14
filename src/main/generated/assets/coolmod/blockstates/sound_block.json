@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "coolmod:block/sound_block"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+// 1.20.4	2024-04-14T11:41:24.9227127	Cool Mod/Tags for minecraft:block
+c453386025b7ae7d9bfbe3852c6d538e142d3ad0 data\minecraft\tags\blocks\mineable\pickaxe.json
+1bd29cd45e5fea60d45ed77818dfd81f71bff9da data\coolmod\tags\blocks\ruby_ores.json
+528fa3a7fad758e3131e74cada4a5b2f93e686c0 data\minecraft\tags\blocks\walls.json
+6b2413d2d6f50c134fd27c485891fece103b8446 data\minecraft\tags\blocks\needs_diamond_tool.json
+b20c3ca1466dba970c9f214ca808997975dac4a5 data\fabric\tags\blocks\needs_tool_level_4.json
+d704f65f1304649cd18c11ee8446dd31770a7505 data\minecraft\tags\blocks\fences.json
+44ae63a05db51e64124cbbff2b685a9d2d26e7f5 data\minecraft\tags\blocks\needs_iron_tool.json
+2230bf57f82180930e5d6ec37680390269008b56 data\coolmod\tags\blocks\metal_detector_detectable_blocks.json
+ebf1bbf9a3cd385d20279f57cf619357a1ce5a8e data\minecraft\tags\blocks\fence_gates.json
+6670001a70cb99f268b2e64a014df51a9919b9d9 data\minecraft\tags\blocks\needs_stone_tool.json
