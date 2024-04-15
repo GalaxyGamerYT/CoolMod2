@@ -5,8 +5,8 @@ import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.galaxygamery.coolmod.CoolMod;
 import net.galaxygamery.coolmod.item.custom.MetalDetectorItem;
-import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroups;
+import net.galaxygamery.coolmod.item.custom.ModArmorItem;
+import net.minecraft.item.*;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
@@ -28,8 +28,31 @@ public class ModItems {
     public static final Item COAL_BRIQUETTE = registerItem("coal_briquette",
             new Item(new FabricItemSettings()));
 
+    // Custom 3D Model Item
     public static final Item RUBY_STAFF = registerItem("ruby_staff",
             new Item(new FabricItemSettings().maxCount(1)));
+
+    // Custom Tools
+    public static final Item RUBY_PICKAXE = registerItem("ruby_pickaxe",
+            new PickaxeItem(ModToolMaterial.RUBY, 2, 2f, new FabricItemSettings()));
+    public static final Item RUBY_AXE = registerItem("ruby_axe",
+            new AxeItem(ModToolMaterial.RUBY, 3, 1f, new FabricItemSettings()));
+    public static final Item RUBY_SHOVEL = registerItem("ruby_shovel",
+            new ShovelItem(ModToolMaterial.RUBY, 0, 0f, new FabricItemSettings()));
+    public static final Item RUBY_SWORD = registerItem("ruby_sword",
+            new SwordItem(ModToolMaterial.RUBY, 5, 3f, new FabricItemSettings()));
+    public static final Item RUBY_HOE = registerItem("ruby_hoe",
+            new HoeItem(ModToolMaterial.RUBY, 0, 0f, new FabricItemSettings()));
+
+    // Custom Armor
+    public static final Item RUBY_HEMLET = registerItem("ruby_helmet",
+            new ModArmorItem(ModArmorMaterials.RUBY, ArmorItem.Type.HELMET, new FabricItemSettings()));
+    public static final Item RUBY_CHESTPLATE = registerItem("ruby_chestplate",
+                new ArmorItem(ModArmorMaterials.RUBY, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+    public static final Item RUBY_LEGGINGS = registerItem("ruby_leggings",
+                new ArmorItem(ModArmorMaterials.RUBY, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
+    public static final Item RUBY_BOOTS = registerItem("ruby_boots",
+                new ArmorItem(ModArmorMaterials.RUBY, ArmorItem.Type.BOOTS, new FabricItemSettings()));
 
     // Add Items to Vanilla Item Group
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {

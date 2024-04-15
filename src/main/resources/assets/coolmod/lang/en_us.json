@@ -6,6 +6,19 @@
   "item.coolmod.tomato": "Tomato",
   "item.coolmod.coal_briquette": "Coal Briquette",
 
+  "item.coolmod.ruby_staff": "Ruby Staff",
+
+  "item.coolmod.ruby_pickaxe": "Ruby Pickaxe",
+  "item.coolmod.ruby_axe": "Ruby Axe",
+  "item.coolmod.ruby_shovel": "Ruby Shovel",
+  "item.coolmod.ruby_sword": "Ruby Sword",
+  "item.coolmod.ruby_hoe": "Ruby Hoe",
+
+  "item.coolmod.ruby_helmet": "Ruby Helmet",
+  "item.coolmod.ruby_chestplate": "Ruby Chestplate",
+  "item.coolmod.ruby_leggings": "Ruby Leggings",
+  "item.coolmod.ruby_boots": "Ruby Boots",
+
   "block.coolmod.ruby_block": "Block of Ruby",
   "block.coolmod.raw_ruby_block": "Block of Raw Ruby",
 
@@ -29,5 +42,10 @@
   "tooltip.coolmod.metal_detector.tooltip": "Finds valuables underground",
   "tooltip.coolmod.sound_block.tooltip": "Makes a sweet sound when right clicked",
 
-  "itemgroup.ruby": "Ruby Group"
+  "itemgroup.ruby": "Ruby Group",
+  "key.category.coolmod.cool": "CoolMod Keys",
+  "key.coolmod.drink_water": "Drink Water Key",
+
+  "message.coolmod.drank_water": "Drank Water!",
+  "message.coolmod.no_water": "No Water around!"
 }
